@@ -1,4 +1,4 @@
-This is a Notion clone made using React.js, Next.js, Tailwind and Shadcn UI.
+This is a Notion clone made using React.js, Next.js, TailwindCSS and Shadcn UI.
 
 It is deployed on [Vercel](https://notion-clone-landing-page.vercel.app/) 
 
